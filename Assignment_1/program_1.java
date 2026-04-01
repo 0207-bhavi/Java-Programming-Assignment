@@ -70,7 +70,7 @@ class ArrayOperations {
         System.out.println("Maximum = " + max);
     }
 }
-public class Program_1
+public class program_1
 {
     public static void main(String args[]) {
 
